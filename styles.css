@@ -1,0 +1,33 @@
+body{
+    width: 1000px;
+    display: flex;
+    align-items: center;
+}
+.d-flex{
+    width: 1000px;
+    margin-left: 400px;
+}
+.p-3{
+    text-align: start;
+    border-radius: 5px;
+}
+
+.card-footer{
+    display: flex;
+    justify-content: end;
+}
+.btn-secondary{
+    margin-right: 5px;
+}
+.payment{
+    margin: auto;
+    background-color: grey;
+    color:white;
+    width: 180px;
+    height: 25px;
+    border-radius: 5px;
+    align-items: center;
+}
+.card{
+    margin: auto;
+}
